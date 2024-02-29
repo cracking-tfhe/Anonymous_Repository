@@ -1,0 +1,1 @@
+This repository provides the code that has been used to demonstrate an error and full key recovery attack on a popular LWE-based FHE library, namely TFHE. We assume that the server is provided the ability to decrypt the result of a homomorphic NAND evaluation only. Please follow the instructions provided in the TFHE folder in order to simulate the attack on local device.
